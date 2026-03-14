@@ -75,7 +75,7 @@ I design clean backend systems, responsive frontends, and deploy secure, high-pe
 ## 📫 Connect
 
 - Email: <mailtotanishgarg@gmail.com>
-- LinkedIn: <https://linkedin.com/in/garg-tanish>
+- LinkedIn: <https://linkedin.com/in/tanishgarg03>
 - Twitter: <https://x.com/tanishgarg03>
 
 ---
