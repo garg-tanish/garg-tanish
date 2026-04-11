@@ -66,7 +66,7 @@ I design clean backend systems, responsive frontends, and deploy secure, high-pe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garg-tanish&show_icons=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=garg-tanish)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garg-tanish)
 
